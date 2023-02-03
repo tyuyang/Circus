@@ -1,4 +1,8 @@
 package circus.stuff;
+<<<<<<< HEAD
+=======
+
+>>>>>>> improvecode
 public class Cannon extends Equipment {
 
     public Cannon(int purchasePrice) {
